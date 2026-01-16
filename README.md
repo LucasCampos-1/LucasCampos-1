@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Hello,+My+name's+Lucas+Campos;I'm+21+years+old;I'm+developing+full-stack+skills)](https://git.io/typing-svg)
 
 <div>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasCampos-1&show_icons=true&bg_color=000000&title_color=2e0049&text_color=ffffff&icon_color=2e0049"/>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasCampos-1&layout=compact&bg_color=000000&title_color=2e0049&text_color=8B949E&langs_count=6"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasCampos-1&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=ffffff&icon_color=FFFFFF"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasCampos-1&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=8B949E&langs_count=6"/>
 </div>
 
 ### **💻 Main Skills**
